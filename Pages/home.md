@@ -9,20 +9,17 @@ We'll be providing a single speaking track for GDC speakers (and potentially oth
 
 Our goals are twofold:
 
-
 1. Provide a space for the community to share knowledge, network, and hang out in a friendly social setting.
 
 2. Bridge the gap between in-person and virtual GDC events by providing GDC speakers (and others) the chance to have their talks professionally recorded, captioned, and live-streamed. As a speaker, you'll end up with a video that's perfect for the GDC Vault, [#notGDC](http://notgdc.fun), or anyplace else you might want to use it.
-
 
 We are currently lining up our speakers and venue. Please use the forms below if you’re interested in learning more, and you can also follow us at [@altGDConf](https://twitter.com/altgdconf) for general updates.
 
 **If you're interested in ATTENDING**, sign up for our [mailing list]().
 
-**If you're interested in SPEAKING**, fill out our [speaker submission form]().
+**If you're interested in SPEAKING**, fill out our [speaker submission form](https://airtable.com/tbld7JDpmCr5s7tl2/viwBt4eriwCc8DDjM?blocks=show).
 
 **If you're interested in SPONSORING**, check out our [sponsorship opportunities](https://altgdc.com/sponsors).
-
 
 # FAQ
 
