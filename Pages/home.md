@@ -17,11 +17,11 @@ Our goals are twofold:
 
 We are currently lining up our speakers and venue. Please use the forms below if you’re interested in learning more, and you can also follow us at [@altGDConf](https://twitter.com/altgdconf) for general updates.
 
-**If you're interested in ATTENDING**, sign up for our [mailing list]() to learn when tickets are available!
+**If you're interested in ATTENDING**, sign up for our [mailing list]().
 
-**If you're interested in SPEAKING**, fill out our [speaker submission form]()!
+**If you're interested in SPEAKING**, fill out our [speaker submission form]().
 
-**If you're interested in SPONSORING**, check out our [sponsorship opportunties](https://altgdc.com/sponsors)!
+**If you're interested in SPONSORING**, check out our [sponsorship opportunities](https://altgdc.com/sponsors).
 
 
 # FAQ
