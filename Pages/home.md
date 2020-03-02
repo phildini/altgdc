@@ -19,7 +19,7 @@ We are currently lining up our speakers and venue. Please use the forms below if
 
 **If you're interested in ATTENDING**, sign up for our [mailing list](https://buttondown.email/altgdc).
 
-**If you're interested in SPEAKING**, fill out our [speaker submission form](https://airtable.com/shrt1Ohzhog2LW8A3).
+**If you're interested in SPEAKING**, fill out our [speaker submission form](https://airtable.com/shrz46IoZcXkIeYYQ).
 
 **If you're interested in SPONSORING**, check out our [sponsorship opportunities](https://altgdc.com/sponsors).
 
