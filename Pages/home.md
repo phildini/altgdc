@@ -7,13 +7,13 @@ Menu: no
 
 altGDC is a free three-day conference about game design and development happening in San Francisco during the week that that other conference was supposed to be running.
 
-We'll be providing a single speaking track for GDC speakers (and potentially other speakers!) to give their talks as planned, as well as a space to network, learn, and commiserate on the games industry.
+We'll be providing a single speaking track for GDC speakers (and others!) to give their talks as planned, as well as a space to network, learn, and commiserate on the games industry.
 
 Our goals are twofold:
 
 1. Provide a space for the indie game community to share knowledge, network, and hang out in a friendly, welcoming social setting.
 
-2. Bridge the gap between in-person and virtual GDC events by providing GDC speakers (and others) the chance to have their talks professionally recorded, captioned, and live-streamed. As a speaker, you'll end up with a video that's perfect for the GDC Vault, [#notGDC](http://notgdc.fun), or anyplace else you might want to use it.
+2. Bridge the gap between in-person and virtual GDC events by providing speakers the chance to have their talks professionally recorded, captioned, and live-streamed. As a speaker, you'll end up with a video that's perfect for the GDC Vault, [#notGDC](http://notgdc.fun), or anyplace else you might want to use it.
 
 We are currently lining up our speakers and venue. Please use the forms below if you’re interested in learning more, and you can also follow us at [@altGDConf](https://twitter.com/altgdconf) for general updates.
 
