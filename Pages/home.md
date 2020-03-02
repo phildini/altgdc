@@ -16,7 +16,7 @@ Our goals are twofold:
 
 We are currently lining up our speakers and venue. Please use the forms below if you’re interested in learning more, and you can also follow us at [@altGDConf](https://twitter.com/altgdconf) for general updates.
 
-**If you're interested in ATTENDING**, sign up for our [mailing list]().
+**If you're interested in ATTENDING**, sign up for our [mailing list](https://buttondown.email/altgdc).
 
 **If you're interested in SPEAKING**, fill out our [speaker submission form](https://airtable.com/tbld7JDpmCr5s7tl2/viwBt4eriwCc8DDjM?blocks=show).
 
