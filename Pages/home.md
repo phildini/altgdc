@@ -1,6 +1,7 @@
 Permalink: /
 Menu: no
 
+![altGDC](/images/_logo-hq-transparent-small.png)
 # altGDC is happening
 
 altGDC is a three day conference about game design and development happening in San Francisco during the week that that other conference was supposed to be running.
