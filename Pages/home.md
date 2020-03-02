@@ -27,7 +27,7 @@ We are currently lining up our speakers and venue. Please use the forms below if
 
 ## Who's putting this thing on?
 
-Right now, the organizing team is [Em Lazer-Walker](https://twitter.com/lazerwalker), [Andrew Cedotal](https://andrewcedotal.com/), and [Phildini James](https://twitter.com/phildini). Between them they have over a decade of experience in the games industry, and nearly that much experience putting on conferences. Em and Philip are also two of the core organizers of the [Roguelike Celebration](https://roguelike.club) conference.
+Right now, the organizing team is [Em Lazer-Walker](https://twitter.com/lazerwalker), [Andrew Cedotal](https://andrewcedotal.com/), [Phildini James](https://twitter.com/phildini), and [Ben McGraw](https://twitter.com/bengrue). Between them they have over a decade of experience in the games industry, and nearly that much experience putting on conferences. Em and Philip are also two of the core organizers of the [Roguelike Celebration](https://roguelike.club) conference.
 
 ## Is this affiliated with the conference that got moved?
 
@@ -36,6 +36,10 @@ No, we're doing this on our own, for the community of folks that will still be h
 ## Do you have a Code of Conduct?
 
 We're so glad you asked! We are very dedicated to providing a safe and welcoming safe space for all. You can read our code of conduct [here](https://altgdc.com/coc)
+
+## This doesn't exactly sound like my jam, what else should I check out?
+- [The Plan B Project](https://www.facebook.com/events/2691541054244423/) is actively in motion to provide an alternative for people who will still find themselves in San Francisco that will provide a forum for speakers and discussions, as well as networking time!
+- [Continually updated doc](https://docs.google.com/document/d/1t1i1kUgv7W4TG1wnUJ1yPhJgC0F0WO0wcAPN4dynofY/edit) with all of the events happening during GDC Week. Thanks to [@alanwdang](https://twitter.com/alanwdang/).
 
 ## Isn't it dangerous to do this, what with the COVID-19 thing?
 

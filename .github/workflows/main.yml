@@ -1,0 +1,19 @@
+name: Publish to blot.im
+
+on:
+  push:
+    branches: master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Publish to blot
+      uses: phildini/github-to-blot@master
+      with:
+        args: "https://blot.im/clients/git/end/altgdc.git"
+      env:
+        BLOT_USERNAME: "phildini@phildini.net"
+        BLOT_TOKEN: ${{ secrets.BLOT_TOKEN }}
+
