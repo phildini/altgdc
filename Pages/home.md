@@ -5,7 +5,7 @@ Menu: no
 
 # altGDC is happening march 16-18
 
-altGDC is a free three-day conference about game design and development happening in San Francisco during the week that that other conference was supposed to be running.
+altGDC is a free three-day conference about game design and development happening in San Francisco during the week that other conference was supposed to be running.
 
 We'll be providing a single speaking track for GDC speakers (and others!) to give their talks as planned, as well as a space to network, learn, and commiserate on the games industry.
 
