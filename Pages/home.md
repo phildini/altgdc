@@ -27,7 +27,7 @@ We are currently lining up our speakers and venue. Please use the forms below if
 
 ## Who's putting this thing on?
 
-Right now, the organizing team is [Em Lazer-Walker](https://twitter.com/lazerwalker), [Andrew Cedotal](https://andrewcedotal.com/), [Phildini James](https://twitter.com/phildini), and [Ben McGraw](https://twitter.com/bengrue). Between them they have over a decade of experience in the games industry, and nearly that much experience putting on conferences. Em and Philip are also two of the core organizers of the [Roguelike Celebration](https://roguelike.club) conference.
+Right now, the organizing team is [Em Lazer-Walker](https://twitter.com/lazerwalker), [Andrew Cedotal](https://andrewcedotal.com/), [Phildini James](https://twitter.com/phildini), and [Ben McGraw](https://twitter.com/bengrue). Between them they have decades of experience in the games industry, and nearly that much experience putting on conferences. Em and Philip are also two of the core organizers of the [Roguelike Celebration](https://roguelike.club) conference.
 
 ## Is this affiliated with the conference that got moved?
 
