@@ -39,6 +39,7 @@ We're so glad you asked! We are very dedicated to providing a safe and welcoming
 
 ## This doesn't exactly sound like my jam, what else should I check out?
 
+- [Boardgame Summit](https://www.eventbrite.com/e/boardgame-summit-plan-b-tickets-3802168388): Designers, developers, and publishers in the tabletop game (and tabletop game adjacent space) are gathering to share their planned talks from GDC, network, and talk board games.
 - [The Plan B Project](https://www.facebook.com/events/2691541054244423/) is actively in motion to provide an alternative for people who will still find themselves in San Francisco that will provide a forum for speakers and discussions, as well as networking time!
 - [Continually updated doc](https://docs.google.com/document/d/1t1i1kUgv7W4TG1wnUJ1yPhJgC0F0WO0wcAPN4dynofY/edit) with all of the events happening during GDC Week. Thanks to [@alanwdang](https://twitter.com/alanwdang/).
 - The [Game Dev Guide to GDC Week 2020](https://because.games) is an events calendar and activities guide for anyone who'll be in SF the week of GDC, including recommendations for sightseeing activities and delicious food. By [Nathan Bosia](https://twitter.com/natethenate) and [Nick Suttner](https://twitter.com/nsuttner)
