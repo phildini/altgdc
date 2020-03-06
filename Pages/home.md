@@ -3,19 +3,29 @@ Menu: no
 
 ![altGDC](/images/_logo-hq-transparent-small.png)
 
-# altGDC is happening march 16-18
+# altGDC is happening!
 
-altGDC is a free three-day conference about game design and development happening in San Francisco during the week that other conference was supposed to be running.
+altGDC is a free mostly-virtual conference about game design and development during the week that other conference was supposed to be running.
 
-We'll be providing a single speaking track for GDC speakers (and others!) to give their talks as planned, as well as a space to network, learn, and commiserate on the games industry.
+We'll be providing a speaking track for GDC speakers (and others!) to give their talks as planned, as well as a space to network, learn, and commiserate on the games industry.
 
 Our goals are twofold:
 
 1. Provide a space for the indie game community to share knowledge, network, and hang out in a friendly, welcoming social setting.
 
-2. Bridge the gap between in-person and virtual GDC events by providing speakers the chance to have their talks professionally recorded, captioned, and live-streamed. As a speaker, you'll end up with a video that's perfect for the GDC Vault, [#notGDC](http://notgdc.fun), or anyplace else you might want to use it.
+2. Live-stream and record talks so that GDC speakers can still reach their audience, and their audience can still benefit from their insights.
 
-We are currently lining up our speakers and venue. Please use the forms below if you’re interested in learning more, and you can also follow us at [@altGDConf](https://twitter.com/altgdconf) for general updates.
+You may have heard that we were previously planning to throw an in-person conference in San Francisco. The continued industry response to COVID-19 has made our original plan, to host about 150 of you amazing people in San Francisco, difficult. Here’s what our current plan is:
+
+- The altGDC talk track is going to be streamed on [Twitch](https://www.twitch.tv/altgdc), but will not have a physical presence for non-speakers. For speakers who will still be in San Francisco, we’ll be providing a semi-professional video recording studio you can use and hang out in.
+
+- The altGDC hallway track will be a mixture of [Discord chat channels](https://discordapp.com/invite/Nr9QQk2), Discord voice channels, and the Twitch chat. We’re going to find ways to make it feel as close to in-person as possible, including having speaker drop-ins and organizing special virtual events. We’ll also share information about altGDC watch parties as we hear of them.
+
+- The altGDC party track will happen in the evenings with all the parties we can find or throw, and we’ll be sending out more details as they emerge.
+
+While this isn’t everything that we originally hoped for, we’re still committed to hosting the best event we can, and we hope you’ll join us.
+
+Please use the forms below if you’re interested in learning more, and you can also follow us at [@altGDConf](https://twitter.com/altgdconf) for general updates.
 
 **If you're interested in ATTENDING**, sign up for our [mailing list](https://buttondown.email/altgdc).
 
